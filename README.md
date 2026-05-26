@@ -1,7 +1,7 @@
 # Taller: Clasificación en dataset bancario (PySpark)
 
-Autor: Juan Diego Muñoz Angulo  
-Profesor: Jhon Jairo Corredor
+### Autor: Juan Diego Muñoz Angulo  
+### Profesor: Jhon Jairo Corredor
 
 ---
 
@@ -27,5 +27,4 @@ Profesor: Jhon Jairo Corredor
 
 ---
 
-Archivo generado a partir del notebook `TallerMunozClasificacion.ipynb`.
 
